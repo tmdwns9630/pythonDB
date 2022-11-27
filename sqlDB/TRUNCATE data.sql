@@ -1,0 +1,1 @@
+TRUNCATE room_data.room_info;
